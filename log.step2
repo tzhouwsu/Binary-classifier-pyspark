@@ -1,0 +1,28 @@
+
+
+ data-size for build model: 25843 
+
+
+
+ dog_classifier :
+ traindata# 18039
+ testdata# 7804
+ default parameter-set 0.0, 0.0 :  evaluate 0.826954925634
+
+ best-model parameter-set 0.5, 0.0 :  evaluate 0.949505135507
+
+ performance evaluate: 0.949505135507
+ P 655 TP 76 N 7149 TN 7136
+
+
+
+ cat_classifier :
+ traindata# 18039
+ testdata# 7804
+ default parameter-set 0.0, 0.0 :  evaluate 0.754067450135
+
+ default parameter-set 0.0, 0.0 :  evaluate 0.754067450135
+
+ performance evaluate: 0.754067450135
+ P 542 TP 325 N 7262 TN 6948
+
